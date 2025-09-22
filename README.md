@@ -10,11 +10,11 @@ Configarr is a powerful configuration and synchronization tool designed specific
 - TRaSH-Guides provides optimized configurations for bot
 - Configarr helps manage and synchronize all these components
 
-This script creates an easy to read configuration profile for [Radarr](https://github.com/2Tiny2Scale/ScaleTail/services/radarr) and [Sonarr](https://github.com/2Tiny2Scale/ScaleTail/services/sonarr).
+This script creates an easy to read configuration profile for [Radarr](https://github.com/2Tiny2Scale/ScaleTail/tree/main/services/radarr) and [Sonarr](https://github.com/2Tiny2Scale/ScaleTail/tree/main/services/sonarr).
 
 ## Configuration Overview
 
-This is a simple and single run script which configures a predefined optimized UHD/FHD profile in both [Radarr](https://github.com/2Tiny2Scale/ScaleTail/services/radarr) and [Sonarr](https://github.com/2Tiny2Scale/ScaleTail/services/sonarr). Fromm the .env file you will need to provide:
+This is a simple and single run script which configures a predefined optimized UHD/FHD profile in both [Radarr](https://github.com/2Tiny2Scale/ScaleTail/tree/main/services/radarr) and [Sonarr](https://github.com/2Tiny2Scale/ScaleTail/tree/main/services/sonarr). Fromm the .env file you will need to provide:
 
 - **xxxARR_URL**: This environment variable is where you insert your DNS/IP with port.
 - **xxxARR_API**: The API key to allow the creation and updating of the download profile.
